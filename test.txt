@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Megnézzük, hogy feltölt-e
 megnézzük a szerkesztést
+=======
+Megnézzük, hogy feltölt-e
+megnézzük a szerkesztést
+3. szerkesztés
+>>>>>>> 50c2cb7b94945e447889f5a911ae5f8335fba82d
